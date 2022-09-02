@@ -18,7 +18,7 @@ urllib3.disable_warnings()
 
 def banner():
   flirLogo = """ 
-cvepush.com   
+flir
   """
   return print('\033[1;94m{}\033[1;m'.format(flirLogo))
 
