@@ -5,7 +5,6 @@
 # Date: 9/2/2022
 # Vendor Homepage: https://www.flir.com/
 # Software Link: https://www.flir.com/products/ax8-automation/
-# PoC: https://www.youtube.com/watch?v=dh0_rfAIWok
 # Version: 1.46.16 and under.
 # Tested on: FLIR AX8 version 1.46.16 (Ubuntu)
 
